@@ -48,7 +48,11 @@ Welcome to my GitHub profile! I'm passionate about artificial intelligence, mach
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/agik20/agik20/output/snake.svg)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/agik20/agik20/output/snake.svg" alt="Snake animation" />
 
 ---
 

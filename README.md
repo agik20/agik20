@@ -4,12 +4,6 @@ AI and Machine Learning Enthusiast | Student at Islamic University of Indonesia
 
 Welcome to my GitHub profile! I'm passionate about artificial intelligence, machine learning, and full-stack development. I enjoy building projects that combine these interests to create innovative solutions.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agik20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
